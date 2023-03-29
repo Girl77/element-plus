@@ -25,7 +25,7 @@ const defaultTime = ref<[Date, Date]>([
 <style scoped>
 .demo-date-picker {
   display: flex;
-  width: 100%;
+  width: 50%;
   padding: 0;
   flex-wrap: wrap;
 }
